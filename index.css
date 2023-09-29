@@ -1,0 +1,38 @@
+h1{
+    font-weight: bolder;
+    font: Papyrus;
+    background-color: brown;
+    color: bisque;
+    font-size: 10em;
+}
+h2{
+    background-color: blueviolet;
+    color: aqua;
+    font-size: 7.5em;
+}
+p{
+    color: aliceblue;
+    text-align: center;
+    font-size: 5em;
+}
+html{
+    background-color: black;
+}
+image{
+    align-self: center;
+}
+ul{
+    color: aliceblue;
+    font-size: 5em;
+}
+form{
+    background-color: aliceblue;
+    color: cadetblue;
+    font-size: 5em;
+}
+table{
+    background-color: bisque;
+    color: hotpink;
+    font-size: 5em;
+
+}
