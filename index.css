@@ -36,3 +36,7 @@ table{
     font-size: 5em;
 
 }
+td{
+    border-color: black;
+    border: 10px;
+}
