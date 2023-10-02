@@ -34,9 +34,10 @@ table{
     background-color: bisque;
     color: hotpink;
     font-size: 5em;
-
+    border-collapse: collapse;
+    border: 5px;
 }
-td{
-    border-color: black;
-    border: 10px;
+table,th,td
+{
+    border: 5px solid black;
 }
